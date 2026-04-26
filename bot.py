@@ -4,7 +4,7 @@ from telebot import types
 TOKEN = "8655535173:AAHlhUzqH1JhUhQ4WwgzJc0jOvbki40jnQU"
 
 bot = telebot.TeleBot(TOKEN)
-OPERATOR_LINK = "https://t.me/@operator_orbit"
+OPERATOR_LINK = "https://t.me/@operator_orbitt"
 REVIEWS_LINK = "https://t.me/your_reviews"
 
 products = {
